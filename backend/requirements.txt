@@ -8,3 +8,4 @@ passlib[bcrypt]
 alembic
 pydantic
 pydantic-settings
+email-validator
